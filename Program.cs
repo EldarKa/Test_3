@@ -164,6 +164,4 @@ namespace Test_3
             Console.WriteLine($"Трассировка стека: {ex.StackTrace}");
         }
     }
-
-
 }
